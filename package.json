@@ -1,0 +1,11 @@
+{
+  "name": "voxel-builder",
+  "version": "1.0.0",
+  "description": "Fork of threejs Voxel painter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kristofer Skyttner",
+  "license": "MIT"
+}
